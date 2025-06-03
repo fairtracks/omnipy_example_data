@@ -772,7 +772,7 @@
                 {
                   "@id": "#other_material/338",
                   "name": "library 1",
-                  "type": "Library Extract Name",
+                  "type": "Labeled Extract Name",
                   "characteristics": [
                     {
                       "category": {
