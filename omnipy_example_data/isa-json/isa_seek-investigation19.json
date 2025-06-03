@@ -694,7 +694,7 @@
                 {
                   "@id": "#other_material/333",
                   "name": "library 1",
-                  "type": "library name",
+                  "type": "Library Extract Name",
                   "characteristics": [
                     {
                       "category": {
