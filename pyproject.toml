@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "omnipy-example-data"
-version = "0.1.0"
+version = "0.2.0"
 description = "Example data files for use in the `omnipy_examples` package"
 authors = ["Sveinung Gundersen <sveinugu@gmail.com>"]
 readme = "README.md"
